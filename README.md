@@ -14,3 +14,4 @@ my first pwa
 - [https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.s96uzuent](https://medium.com/web-on-the-edge/manifoldjs-is-becoming-pwa-builder-to-simplify-building-progressive-web-apps-49bff31f9380#.s96uzuent)
 - [https://blog.elpassion.com/how-to-make-your-app-a-pwa-e449caee37f8#.u49d3b4ro](https://blog.elpassion.com/how-to-make-your-app-a-pwa-e449caee37f8#.u49d3b4ro)
 - [https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/)
+- [https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Articles/MetaTags.html)
